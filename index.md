@@ -1,5 +1,7 @@
 ---
-title: NewTitle
+title: M3: GitHub Portfolio Assignment
+Description: By Joshua Aman
+
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
