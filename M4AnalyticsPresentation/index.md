@@ -1,6 +1,6 @@
 
 ---
-title: M4: Analytics Presentation
+title: M4 Analytics Presentation
 description: CTBA Course Content
 ---
 
